@@ -1,0 +1,19 @@
+{
+  "name": "personal-fullstack-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlekiChrome/Personal-Fullstack-Express.git"
+  },
+  "author": "Candice Agard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlekiChrome/Personal-Fullstack-Express/issues"
+  },
+  "homepage": "https://github.com/AlekiChrome/Personal-Fullstack-Express#readme"
+}
